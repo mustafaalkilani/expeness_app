@@ -1,0 +1,18 @@
+<lint-module
+    format="1"
+    dir="/media/mustafa/HDD-hard-drive/Apps/expeness_app/android/app"
+    name=":app"
+    type="APP"
+    maven="android:app:"
+    gradle="7.2.0"
+    buildFolder="/media/mustafa/HDD-hard-drive/Apps/expeness_app/build/app"
+    bootClassPath="/media/mustafa/HDD-hard-drive/Android/Sdk/platforms/android-31/android.jar:/media/mustafa/HDD-hard-drive/Android/Sdk/build-tools/30.0.3/core-lambda-stubs.jar"
+    javaSourceLevel="1.8"
+    compileTarget="android-31">
+  <lintOptions
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true"/>
+  <variant name="debug"/>
+</lint-module>
